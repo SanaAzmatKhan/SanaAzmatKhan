@@ -17,10 +17,10 @@ Passionate about creating clean, scalable solutions and always eager to learn ne
 ## 📂 Featured Projects
 Here are some of my public projects:  
 
-- 📱 **Personality-test-web-app** → *A web app built with Laravel & Vue.js for personality and skill assessments.*  
-- 📱 **Activity-Monitor** → *A web-based admin dashboard to monitor activities of signed-in users/employees.*  
-- 🌐 **Emotion-detection-mobile-app-AI-project** → *An AI-powered mobile app that detects emotions from text or voice input using a trained model..*  
-- 🌐 **Food-choice-Android-App** → *A mobile app to save, share, and plan recipes, including tips from experts.*  
+- 🌐 **Personality-test-web-app** → *A web app built with Laravel & Vue.js for personality and skill assessments.*  
+- 🌐 **Activity-Monitor** → *A web-based admin dashboard to monitor activities of signed-in users/employees.*  
+- 📱 **Emotion-detection-mobile-app-AI-project** → *An AI-powered mobile app that detects emotions from text or voice input using a trained model..*  
+- 📱 **Food-choice-Android-App** → *A mobile app to save, share, and plan recipes, including tips from experts.*  
 
 👉 Check out my repositories for more details!  
 
