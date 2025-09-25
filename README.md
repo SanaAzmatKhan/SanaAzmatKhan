@@ -10,8 +10,8 @@ I also enjoy experimenting with **mobile app development (Kotlin, Android)** & *
 
 ## 🚀 Tech Stack
 - **Frontend:** Vue.js, Kotlin, Tailwind CSS, JavaScript, HTML, Bootstrap, CSS
-- **Backend:** Laravel (PHP), REST & SOAP APIs 
-- **Tools & Others:** Git, GitHub, GitLab, Vite, Axios, Inertia, MySQL
+- **Backend:** Laravel (PHP), C#, REST & SOAP APIs 
+- **Tools & Others:** Git, GitHub, GitLab, Vite, Axios, Inertia, MySQL, Xml
 
 ---
 
