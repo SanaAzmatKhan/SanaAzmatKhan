@@ -4,7 +4,7 @@
 
 I’m a software engineer with 4+ years of experience building scalable & responsive web applications.  
 Passionate about creating clean, scalable solutions and always eager to learn new technologies.  
-I also enjoy experimenting with **mobile app development (Kotlin, Android)**. The mobile apps shared here are **personal side projects** and I’d love to take on client work in this area in the future.  
+I also enjoy experimenting with **mobile app development (Kotlin, Android)** & **Desktop & Web developemnt using different programming languages**. The projects shared here are **my personal side projects** and I’d love to take on client work in these areas in the future.  
 
 ---
 
